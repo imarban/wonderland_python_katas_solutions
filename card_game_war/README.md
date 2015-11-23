@@ -2,9 +2,6 @@
 
 This kata is a version of the classic card game [War](http://en.wikipedia.org/wiki/War_%28card_game%29).
 
-![Cards Painting](/images/cardspainting.gif)
-
-
 The rules of this card game are quite simple.
 
 - There are two players.
@@ -24,9 +21,7 @@ The rules of this card game are quite simple.
 
 - Clone or fork this repo
 - `cd card-game-war`
-- Run the tests with `lein test`
-- In this kata, you will be prompted to fill in your own tests.
-- Make the tests pass!
+- Run the tests 
 
 ## Solutions
 
