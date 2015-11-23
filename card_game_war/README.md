@@ -30,7 +30,7 @@ The rules of this card game are quite simple.
 
 ## Solutions
 
-Go to [katas definition repo][https://github.com/imarban/wonderland_python_katas] to see the other solutions. 
+Go to [katas definition repo](https://github.com/imarban/wonderland_python_katas) to see the other solutions. 
 
 ## License
 
